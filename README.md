@@ -1,5 +1,9 @@
 # SuperDwarves Tavern Championship (scripts only)
 
+## Table of contents
+[The game](#the-game)
+[Networking](#networking)
+
 Most graphical elements were made by Barbedor Eric, who worked on this project with me.  
 ![Alt text](Illustrations/Logo.png)
 
