@@ -34,6 +34,9 @@ The first team with five coins wins the game.
 
 - Repeat !
 
+- User interface:
+![Alt text](Illustrations/SDTC_UI.jpg)
+
 ## Networking
 Networking uses the new API of Unity called "UNet", which is based on RPC.  
 The host is responsible for the state of the game (such as the number of coins of each teams, traps, tables, ...). Clients are only responsible for their own character, including the stuns that may affect them.
